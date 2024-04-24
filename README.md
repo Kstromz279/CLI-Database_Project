@@ -1,5 +1,5 @@
 # 431W-Project
-Brief explanation of all useable functions within the CLI-Interface. If you wanted to use this yourself you would need to change the database that you are accessing with the code. There are a lot of parts where the database is opened, so you would need to make sure you change all of them to fit the database you created. 
+Brief explanation of all usable functions within the CLI-Interface. If you wanted to use this yourself you would need to change the database that you are accessing with the code. There are a lot of parts where the database is opened, so you would need to make sure you change all of them to fit the database you created. 
 
 
 # 1. Insert Data
